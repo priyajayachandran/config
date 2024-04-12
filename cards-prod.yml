@@ -3,7 +3,7 @@ build:
   version: "3.0.3"
   
 cards:
-  message: "welcome to cards service from PRODUCTION"
+  message: "welcome to cards service from PROD"
   contactDetails:
     name: "Cam"
     mail: "cam@ns.com"

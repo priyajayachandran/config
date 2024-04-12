@@ -1,0 +1,12 @@
+
+build:
+  version: "2.0.2"
+
+loans:
+  message: "Welcome to Loans app from QA"
+  contactDetails:
+    name: "Max"
+    mail: "max@wf.com"
+  onCallSupport:
+    - "333"
+    - "343"

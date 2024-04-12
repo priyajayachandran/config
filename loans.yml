@@ -1,0 +1,12 @@
+
+build:
+  version: "2.0.1"
+
+loans:
+  message: "Welcome to Loans app from local"
+  contactDetails:
+    name: "Cole"
+    mail: "cole@wf.com"
+  onCallSupport:
+    - "12345"
+    - "67890"

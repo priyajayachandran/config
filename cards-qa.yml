@@ -1,0 +1,12 @@
+
+build:
+  version: "3.0.2"
+  
+cards:
+  message: "welcome to cards service from QA"
+  contactDetails:
+    name: "Tori"
+    mail: "tori@ns.com"
+  onCallSupport:
+    - "333"
+    - "444"

@@ -1,0 +1,11 @@
+build:
+  version: "0.3"
+  
+accounts:
+  message: "Welcome to Accounts Rest API Microservice from Local"
+  contactDetails: 
+    name: "Priya"
+    email: "priya@gmail.com"
+  onCallSupport:
+    - "9812456789"
+    - "8812345678"

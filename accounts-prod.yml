@@ -6,7 +6,7 @@ accounts:
   message: "Welcome to Accounts Rest API Microservice from Prod"
   contactDetails: 
     name: "bharani"
-    email: {cipher}"6d6276914957f0be9ddad85c79b1cd926806c300f9b5f3fe90caa64b9ce05dc326027321858246c60bf87529c415e9c8"
+    email: "{cipher}6d6276914957f0be9ddad85c79b1cd926806c300f9b5f3fe90caa64b9ce05dc326027321858246c60bf87529c415e9c8"
   onCallSupport:
     - "12345"
     - "67890"

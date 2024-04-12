@@ -1,0 +1,12 @@
+
+build:
+  version: "3.0.1"
+  
+cards:
+  message: "welcome to cards service from local"
+  contactDetails:
+    name: "Shane"
+    mail: "shane@ns.com"
+  onCallSupport:
+    - "111"
+    - "222"

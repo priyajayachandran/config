@@ -1,0 +1,13 @@
+
+build:
+  version: "0.2"
+  
+accounts:
+  message: "Welcome to Accounts Rest API Microservice from QA"
+  contactDetails: 
+    name: "Abcde"
+    email: "abcde@gmail.com"
+  onCallSupport:
+    - "97899"
+    - "18172"
+    

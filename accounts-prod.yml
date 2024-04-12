@@ -1,0 +1,12 @@
+
+build:
+  version: "0.1"
+  
+accounts:
+  message: "Welcome to Accounts Rest API Microservice from Prod"
+  contactDetails: 
+    name: "bharani"
+    email: "bharani@gmail.com"
+  onCallSupport:
+    - "12345"
+    - "67890"

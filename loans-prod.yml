@@ -3,7 +3,7 @@ build:
   version: "2.0.3"
 
 loans:
-  message: "Welcome to Loans app from Prod"
+  message: "Welcome to Loans app from Production"
   contactDetails:
     name: "Danny"
     mail: "danny@wf.com"

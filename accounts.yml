@@ -2,7 +2,7 @@ build:
   version: "0.3"
   
 accounts:
-  message: "Welcome to Accounts Rest API Microservice from docker"
+  message: "Welcome to Accounts Rest API Microservice from dockergit"
   contactDetails: 
     name: "Priya"
     email: "priya@gmail.com"
